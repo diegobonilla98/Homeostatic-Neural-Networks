@@ -17,3 +17,5 @@ In the paper they use Multi-Layer Perceptron and MNIST dataset. I wanted to try 
 I've used Dogs -> '0' as an excitatory and Cats -> '1' as an inhibitory (obviously...).
 ![](./confusion_matrix.png)
 
+My best model performed a nice 87% accuracy on test data. Pretty nice taking in account the model used! 
+
