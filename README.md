@@ -14,5 +14,6 @@ https://arxiv.org/pdf/2205.08645.pdf
 In the paper they use Multi-Layer Perceptron and MNIST dataset. I wanted to try a CNN and a more "complex" data, so I used AlxexNet and 25k images of Dogs and Cats. I used the same methodology explained kindly in pseudo-code in the paper. I love when they do that. But I'm afraid there could be a chance that I under/over-estimate the model and optimizer copy creation. It all seems to work fine and I love the idea in general.
 
 ## Results
+I've used Dogs -> '0' as an excitatory and Cats -> '1' as an inhibitory (obviously...).
 ![](./confusion_matrix.png)
 
