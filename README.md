@@ -19,3 +19,4 @@ I've used Dogs -> '0' as an excitatory and Cats -> '1' as an inhibitory (obvious
 
 My best model performed a nice 87% accuracy on test data. Pretty nice taking in account the model used! 
 
+I did not perfom concept-shift nor I compared it with classic learning methods as I just wanted to try the learning approach. But definitely it's something to try in the future.
